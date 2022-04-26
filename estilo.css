@@ -155,7 +155,7 @@
     
     
     
-    background-image: url(wheyintegral.png);
+    background-image: url(images/wheyintegral.png);
     background-size: 220px;
     background-repeat: no-repeat;
     background-position: center;
@@ -312,6 +312,7 @@ transition: 0.5s;
   }
   .card2{
     font-size: 14px;
+    background-image: url(images/cut.png)
   }
   .produto{
     margin-top: 10px;
@@ -344,7 +345,7 @@ cursor: pointer;
       border-top-left-radius: 15px;
       padding: 20px;
       box-shadow: 10px 10px 6px grey;
-      background-image: url("bodybuilder.png");
+      background-image: url("images/bodybuilder.png");
       background-repeat: no-repeat;
       background-position-y: 250px;
       background-position-x: center;
